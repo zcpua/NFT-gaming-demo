@@ -1,6 +1,6 @@
 
 
-export default function CreateCollectionPage() {
+export default () =>{
   return (
     <div>
       <h1>Create Collectiondfasdf</h1>
